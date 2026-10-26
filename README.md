@@ -23,7 +23,6 @@ This repository documents my practical work in the **VSD (VLSI System Design)** 
 
 ## Labs / Tasks
 
-Each expandable task introduces the theory, shows what was done, and links to a **step-by-step explanation of every screenshot**. All image paths point directly to `images/`; no image subfolders are required.
 
 <details>
 <summary><b>Task 1 — Environment setup and OpenLANE preparation</b></summary>
